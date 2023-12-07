@@ -1,0 +1,2127 @@
+fileFormatVersion: 2
+guid: e3cd54d9160245e8e4c1069c552550ce
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 2
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Forceground 1_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 925
+        width: 138
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9681a601407277429bd6adde66fb1c2
+      internalID: 696967665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 952
+        width: 239
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba60f6f2b3db0e14dbbecf4a8cfe656d
+      internalID: -1264390355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_2
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 958
+        width: 514
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73050da51c068d345b6d477db0182f2d
+      internalID: -934319680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_3
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 966
+        width: 78
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb95810eb07a474cba72f907bdc4b75
+      internalID: 1794916868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 817
+        width: 182
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be544fb36c512e247b050b18e66277bf
+      internalID: 589158228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_5
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 893
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3b8a1d82f85bc43a4462faeec915a6
+      internalID: -233172638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_6
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 903
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593e8dacd62a65448bed01f90c9d19cf
+      internalID: -1327362652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_7
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 866
+        width: 129
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fedabd0d62378d4299b70bf43576719
+      internalID: 193896213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 738
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb12620b7682584eb917a387250c1bb
+      internalID: -1744628900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 739
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515c95a04a33f6a41a161a2b66397025
+      internalID: 1256327990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 738
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d37b463e2e655e49bb141106ee300e5
+      internalID: -857402832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 738
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e445f387b0917b944ac0b842f5d0b345
+      internalID: -833281018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_12
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 739
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac81027e8db07742a1994f12fca3c02
+      internalID: 724527072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_13
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 737
+        width: 9
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0c911b96408b34ea6411f4340de713
+      internalID: -333037547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 738
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0229c6da5eaa9408b1770e66f14c37
+      internalID: -551616605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_15
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 755
+        width: 200
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2682583886455d54f9128c6fe9a457cf
+      internalID: 721715567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_16
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 716
+        width: 9
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd268fadefeee946a90feb7fd102d92
+      internalID: -558034023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_17
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 654
+        width: 137
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fc85d43f8b7f34dacfa5c9eab2d8c1
+      internalID: -1706370058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_18
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 654
+        width: 136
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c412fa04680e24eb1cd8c3e7363171
+      internalID: -1701777501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_19
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 764
+        width: 37
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d20a98a1cc5fc459974b9ecfb9e416
+      internalID: 89598379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_20
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 764
+        width: 36
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22db192969756c740824e98fa8309a7c
+      internalID: -1572150266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_21
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 771
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97705c6ebfafa6646a563aaf05029615
+      internalID: -570688336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 734
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19755e06f80ce4f45bab05e7e972b29c
+      internalID: 299875597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 734
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a645a4912277644f9951409bdca66e1
+      internalID: 1200779004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_24
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 704
+        width: 112
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c3f00b6c953b644ababdbe15e48261
+      internalID: 898828317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_25
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 716
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d87e97af3c879449346b6d2dce606e
+      internalID: -1987754809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_26
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 710
+        width: 77
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982a16633145afa4db35a2e6b10e3438
+      internalID: -924022036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_27
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 617
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa8b507780f9ec4288af9fa27c0f112
+      internalID: -401365592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 695
+        width: 131
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5748add4f85424f8101977eac1e063
+      internalID: -20585165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 716
+        width: 150
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38123011cf9fd9e4b81541c754dc054b
+      internalID: 1817661761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 664
+        width: 131
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c344c42df093b3342a6f84dd580bade5
+      internalID: 843073860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_31
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 654
+        width: 340
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fea104100ec15b439a0c5e64f516b81
+      internalID: 260720630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_32
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 654
+        width: 77
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8847c0df7ef1f04d80fc0839ba78d8b
+      internalID: -1599659717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_33
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 634
+        width: 131
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaf85a42ed69c545984fedab5ded77e
+      internalID: -1875669870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_34
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 310
+        width: 85
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7156ef54cb0006841aaaa1c7864e0cde
+      internalID: 1775619306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_35
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 375
+        width: 13
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baedb0bdb4e10f946aa1571c4bfdd36c
+      internalID: -1356787266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 534
+        width: 139
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7d9f042eb7b9e4abbb7d60fc9637d9
+      internalID: -1871832530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 427
+        width: 165
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7af26fda77f2fa43b117a2d7eeb7c78
+      internalID: -2064680851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_38
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 509
+        width: 88
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ab8c85f8b9e39408ae146e961f2b8e
+      internalID: -1536945640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_39
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 509
+        width: 88
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265b5dd390f727644b492029614e382c
+      internalID: 2121873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_40
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 541
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7db80dd5cecc145a092240a0af9656
+      internalID: 184818833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_41
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 574
+        width: 164
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c084cfc9a18f34387e75ecbc5c215a
+      internalID: 1234768380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 377
+        width: 144
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4004a50807b50b544b696b4fe71e3e1d
+      internalID: 802188478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_43
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 373
+        width: 161
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51240e5aee00d345a0223183c3108d8
+      internalID: 1274844291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_44
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 353
+        width: 88
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db384251f790c5499030409ae3e1373
+      internalID: 500872975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_45
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 353
+        width: 88
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf3a8ee01fb5ad4f9e86cc4ee46a15b
+      internalID: -380892109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_46
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 353
+        width: 88
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97c9082d2aa3bf43848ffdc8d095cfa
+      internalID: -476108626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_47
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 398
+        width: 229
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727577e76d3a92149a9c1490ac75a55b
+      internalID: 1986135978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 283
+        width: 128
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0992275af750ef42b8060ab97f0f0ce
+      internalID: -372723656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_49
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 316
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4755a13d40642d04c84e9116512930f4
+      internalID: 805771497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_50
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 330
+        width: 211
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64931aaa359745045a33f6691c2086ed
+      internalID: -1791969619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_51
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 241
+        width: 265
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73c27ce7236603419bf5e4ea0a5e961
+      internalID: 521438111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_52
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 286
+        width: 161
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e618ccef320fcf1459fe75389e4777a6
+      internalID: -407759043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_53
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 236
+        width: 106
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03c4c35c54609049950987636cf9f75
+      internalID: 36678827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e671cfd43b7a24a892ab8a48d77336
+      internalID: -1407196875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_55
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 154
+        width: 82
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c7d3c9518fccf47b936be932106f2a
+      internalID: -977745701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_56
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 136
+        width: 146
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c4658dd27b6c341aac80234877a8ae
+      internalID: 874133738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_57
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 95
+        width: 125
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faea65287bc84c84db5bd51884a1edb6
+      internalID: 1738299885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_58
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 132
+        width: 78
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21caea1d03324ee459a23824bdc73f62
+      internalID: 31310208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_59
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 140
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbbd66ebe9d9a246883a6e6056bccb1
+      internalID: -1756339909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_60
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 147
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258c71c3772b3fc4ab186d7d806ca2e2
+      internalID: -1533334225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_61
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 143
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8232b1012240a724486c98f259d7206f
+      internalID: -1311795973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_62
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 135
+        width: 55
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a82b037f1155845abd70ca601a02c9
+      internalID: 238330173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_63
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 133
+        width: 71
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b49cdfc24969d409b7cdb87c4328f9
+      internalID: 1308423803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_64
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 115
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded772ced916b6141bf54c4651831233
+      internalID: -787431516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_65
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 115
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1718229bb3b2b2942a9b588cd9614743
+      internalID: 460980321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_66
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 63
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f678e1725be6dc74092a1f751173c053
+      internalID: -750968921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_67
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 54
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a6e51aa252f824b92753d3c62c96f9
+      internalID: -1176240074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_68
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 4
+        width: 151
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af34cf277ab49424b9395a06cf96fb60
+      internalID: 953498750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_69
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 92
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bab86c84d7c824594e1f2c419845b4
+      internalID: -312322946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_70
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 112
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0180829b0f29cb4f88883e8276eb14b
+      internalID: -877335360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_71
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 92
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbd468abbb3edc40bf25e3fb0074ba3
+      internalID: -2058559306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_72
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 90
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539744037a04bb440aa60d256f627ec2
+      internalID: 2045232080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_73
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 95
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f24725157e24842932044ca4952497
+      internalID: -1752190486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_74
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 4
+        width: 95
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bbc1372e1a59a4f8dd810ad2e3636e
+      internalID: 1310666495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_75
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 52
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf447aa63e9ce94792cc0ce3cf421e3
+      internalID: -404074827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_76
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 99
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97245ffd37340db4ab51a86be76f1ee0
+      internalID: -782642838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_77
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 90
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b6e061f5630d4408123c7b3acd53b3
+      internalID: 140811743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_78
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 90
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25d23aea66f60a46a8f9f92cc417bac
+      internalID: 153350228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_79
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 4
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb666d5a2ae51a4e8181b831998d1ff
+      internalID: 358558374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_80
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 46
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fedd9cdf9b5b8848b3261142091c580
+      internalID: 1632804997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_81
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 9
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324a4f9a395dcd14b85c819c07b59542
+      internalID: -99279885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_82
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 54
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f84ba49dcafc74d86f851ae8544081
+      internalID: 22122822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_83
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 6
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670563b9d132fff4590f274bf2c05610
+      internalID: -1380052155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_84
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 4
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5145fa032a4c24db87f310353a3d80
+      internalID: -1626836191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 174
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597017924c294654fa93af18544f217b
+      internalID: -812587869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_86
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 9
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0548ad8c52f00d641a99d09cb7ab2032
+      internalID: -998739669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_87
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 34
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9bed50b1684bb40b7e6bf0a1dd4ee0
+      internalID: 640716785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_88
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 14
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65be5fd8d93bf0442a245210061a7561
+      internalID: 768205281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forceground 1_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d993f5e483d9c5a44b1afd6d5011fe29
+      internalID: 1006583456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Forceground 1_0: 696967665
+      Forceground 1_1: -1264390355
+      Forceground 1_10: -857402832
+      Forceground 1_11: -833281018
+      Forceground 1_12: 724527072
+      Forceground 1_13: -333037547
+      Forceground 1_14: -551616605
+      Forceground 1_15: 721715567
+      Forceground 1_16: -558034023
+      Forceground 1_17: -1706370058
+      Forceground 1_18: -1701777501
+      Forceground 1_19: 89598379
+      Forceground 1_2: -934319680
+      Forceground 1_20: -1572150266
+      Forceground 1_21: -570688336
+      Forceground 1_22: 299875597
+      Forceground 1_23: 1200779004
+      Forceground 1_24: 898828317
+      Forceground 1_25: -1987754809
+      Forceground 1_26: -924022036
+      Forceground 1_27: -401365592
+      Forceground 1_28: -20585165
+      Forceground 1_29: 1817661761
+      Forceground 1_3: 1794916868
+      Forceground 1_30: 843073860
+      Forceground 1_31: 260720630
+      Forceground 1_32: -1599659717
+      Forceground 1_33: -1875669870
+      Forceground 1_34: 1775619306
+      Forceground 1_35: -1356787266
+      Forceground 1_36: -1871832530
+      Forceground 1_37: -2064680851
+      Forceground 1_38: -1536945640
+      Forceground 1_39: 2121873
+      Forceground 1_4: 589158228
+      Forceground 1_40: 184818833
+      Forceground 1_41: 1234768380
+      Forceground 1_42: 802188478
+      Forceground 1_43: 1274844291
+      Forceground 1_44: 500872975
+      Forceground 1_45: -380892109
+      Forceground 1_46: -476108626
+      Forceground 1_47: 1986135978
+      Forceground 1_48: -372723656
+      Forceground 1_49: 805771497
+      Forceground 1_5: -233172638
+      Forceground 1_50: -1791969619
+      Forceground 1_51: 521438111
+      Forceground 1_52: -407759043
+      Forceground 1_53: 36678827
+      Forceground 1_54: -1407196875
+      Forceground 1_55: -977745701
+      Forceground 1_56: 874133738
+      Forceground 1_57: 1738299885
+      Forceground 1_58: 31310208
+      Forceground 1_59: -1756339909
+      Forceground 1_6: -1327362652
+      Forceground 1_60: -1533334225
+      Forceground 1_61: -1311795973
+      Forceground 1_62: 238330173
+      Forceground 1_63: 1308423803
+      Forceground 1_64: -787431516
+      Forceground 1_65: 460980321
+      Forceground 1_66: -750968921
+      Forceground 1_67: -1176240074
+      Forceground 1_68: 953498750
+      Forceground 1_69: -312322946
+      Forceground 1_7: 193896213
+      Forceground 1_70: -877335360
+      Forceground 1_71: -2058559306
+      Forceground 1_72: 2045232080
+      Forceground 1_73: -1752190486
+      Forceground 1_74: 1310666495
+      Forceground 1_75: -404074827
+      Forceground 1_76: -782642838
+      Forceground 1_77: 140811743
+      Forceground 1_78: 153350228
+      Forceground 1_79: 358558374
+      Forceground 1_8: -1744628900
+      Forceground 1_80: 1632804997
+      Forceground 1_81: -99279885
+      Forceground 1_82: 22122822
+      Forceground 1_83: -1380052155
+      Forceground 1_84: -1626836191
+      Forceground 1_85: -812587869
+      Forceground 1_86: -998739669
+      Forceground 1_87: 640716785
+      Forceground 1_88: 768205281
+      Forceground 1_89: 1006583456
+      Forceground 1_9: 1256327990
+  spritePackingTag: 
+  pSDRemoveMatte: 1
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DeadlyTrap
+  - Skeleton
+  - Goblin
+  - BOD
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Ground
+  - Sword
+  - Item
+  - Enemies
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: CheckPoint
+    uniqueID: 2578833785
+    locked: 0
+  - name: Enemies
+    uniqueID: 1443567821
+    locked: 0
+  - name: Player
+    uniqueID: 3209388833
+    locked: 0
+  - name: FX
+    uniqueID: 197297625
+    locked: 0

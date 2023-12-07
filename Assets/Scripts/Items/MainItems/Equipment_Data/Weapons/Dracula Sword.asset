@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 111dd4d1983f746459cd1696f0bd868e, type: 3}
+  m_Name: Dracula Sword
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Dracula Sword
+  itemIcon: {fileID: -1944902997, guid: a9ca9a41598dd2e44b125928045c518f, type: 3}
+  dropChance: 0
+  equipmentType: 0
+  itemCoolDown: 0
+  itemEffect:
+  - {fileID: 11400000, guid: 515f15e134dafa24ab30ec5558255b6a, type: 2}
+  itemEffectDescription: 'Unique : Healing on each attack hit!'
+  strength: 0
+  intelligence: 3
+  agility: 0
+  vitality: 0
+  damage: 14
+  critChance: 2
+  critPower: 0
+  armor: 0
+  evasion: 0
+  MagicResistant: 3
+  fireDamage: 1
+  iceDamage: 0
+  lightingDamage: 0
+  craftingMaterials:
+  - data: {fileID: 11400000, guid: fd47c3790477c89489899e95998864e3, type: 2}
+    stackSize: 1

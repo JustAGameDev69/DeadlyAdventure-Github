@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 111dd4d1983f746459cd1696f0bd868e, type: 3}
+  m_Name: Magic Double Sword
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Magic Double Sword
+  itemIcon: {fileID: 1398721256, guid: a9ca9a41598dd2e44b125928045c518f, type: 3}
+  itemId: d1ca22e46ed2b344296b58301b3b7452
+  dropChance: 0
+  equipmentType: 0
+  itemCoolDown: 0
+  itemEffect:
+  - {fileID: 11400000, guid: 29ac352975e7cf14a91659e8fcfd45e4, type: 2}
+  - {fileID: 11400000, guid: a760f99b345593d40bcfd4af631a20df, type: 2}
+  itemEffectDescription: 'Unique: Each 3rd attack spawn a special effect!'
+  strength: 2
+  intelligence: 5
+  agility: 1
+  vitality: 1
+  damage: 5
+  critChance: 0
+  critPower: 0
+  armor: 0
+  evasion: 0
+  MagicResistant: 0
+  fireDamage: 5
+  iceDamage: 5
+  lightingDamage: 0
+  craftingMaterials: []
